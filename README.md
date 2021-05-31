@@ -1,3 +1,3 @@
 # CSS참고서
 
-> MDN CSS [here](https://github.com/Won49/CSS-reference)
+> MDN CSS [here](https://developer.mozilla.org/ko/docs/Web/CSS/Reference)
